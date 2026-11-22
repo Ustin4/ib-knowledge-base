@@ -1,0 +1,13 @@
+# Obsidian workspace & cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Copilot chat history (optional, remove if you want to sync chats)
+copilot/copilot-conversations/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
