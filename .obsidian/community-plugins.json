@@ -1,9 +1,9 @@
 [
   "dataview",
   "obsidian-excalidraw-plugin",
-  "copilot",
   "hybrid-git-sync",
   "calendar",
   "obsidian-kanban",
-  "tasknotes"
+  "tasknotes",
+  "copilot"
 ]
