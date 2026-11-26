@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "copilot",
   "hybrid-git-sync",
-  "calendar"
+  "calendar",
+  "obsidian-kanban",
+  "tasknotes"
 ]
